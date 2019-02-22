@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# Culture Counts 2018 PhoneGap App
 
 ## Usage
 
